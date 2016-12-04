@@ -1,6 +1,6 @@
 """
 
-    Utils functions for LTSM network.
+    Utils functions for LSTM network.
 
 """
 
