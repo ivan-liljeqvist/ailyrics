@@ -1,3 +1,9 @@
+"""
+
+    Utils functions for LTSM network.
+
+"""
+
 from keras.models import Sequential, load_model
 from keras.layers import Dense, Activation, Dropout
 from keras.layers import LSTM
